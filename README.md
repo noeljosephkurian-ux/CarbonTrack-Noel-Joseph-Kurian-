@@ -119,3 +119,28 @@ CarbonTrack/
 No Node.js, database, or server installation is required.
 
 ---
+
+## How the Calculator Works
+The calculator follows a simple process:
+```text
+User Input
+    ↓
+Activity Data
+    ↓
+Emission Factor
+    ↓
+Carbon Emission Calculation
+    ↓
+Category-wise Results
+    ↓
+Total Carbon Footprint
+    ↓
+Biggest Contributor
+    ↓
+Suggestions / What-If Scenarios
+```
+The basic calculation principle used by the project is:
+```text
+Carbon Emissions = Activity Data × Emission Factor
+```
+The calculated values from the different categories are combined to produce an estimated overall carbon footprint.
