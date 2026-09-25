@@ -1,7 +1,7 @@
 
 # CarbonTrack — Student Carbon Footprint Calculator
 
-#Website Link: https://noeljosephkurian-ux.github.io/CarbonTrack-Noel-Joseph-Kurian-/
+# Website Link: https://noeljosephkurian-ux.github.io/CarbonTrack-Noel-Joseph-Kurian-/
 
 ## Run the website
 
