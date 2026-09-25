@@ -1,4 +1,4 @@
-# CarbonTrack — Personal Carbon Footprint Calculator
+# CarbonTrack - Personal Carbon Footprint Calculator
 
 ## Website Link: https://noeljosephkurian-ux.github.io/CarbonTrack-Noel-Joseph-Kurian-/
 
